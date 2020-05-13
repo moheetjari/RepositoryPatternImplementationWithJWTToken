@@ -1,0 +1,14 @@
+F:\.netapi\logicboot\LogicBoot.Api.Repository\bin\Debug\netcoreapp3.1\LogicBoot.Api.Repository.deps.json
+F:\.netapi\logicboot\LogicBoot.Api.Repository\bin\Debug\netcoreapp3.1\LogicBoot.Api.Repository.dll
+F:\.netapi\logicboot\LogicBoot.Api.Repository\bin\Debug\netcoreapp3.1\LogicBoot.Api.Repository.pdb
+F:\.netapi\logicboot\LogicBoot.Api.Repository\bin\Debug\netcoreapp3.1\LogicBoot.Api.Contracts.dll
+F:\.netapi\logicboot\LogicBoot.Api.Repository\bin\Debug\netcoreapp3.1\LogicBoot.Api.Entities.dll
+F:\.netapi\logicboot\LogicBoot.Api.Repository\bin\Debug\netcoreapp3.1\LogicBoot.Api.Contracts.pdb
+F:\.netapi\logicboot\LogicBoot.Api.Repository\bin\Debug\netcoreapp3.1\LogicBoot.Api.Entities.pdb
+F:\.netapi\logicboot\LogicBoot.Api.Repository\obj\Debug\netcoreapp3.1\LogicBoot.Api.Repository.csprojAssemblyReference.cache
+F:\.netapi\logicboot\LogicBoot.Api.Repository\obj\Debug\netcoreapp3.1\LogicBoot.Api.Repository.csproj.CoreCompileInputs.cache
+F:\.netapi\logicboot\LogicBoot.Api.Repository\obj\Debug\netcoreapp3.1\LogicBoot.Api.Repository.AssemblyInfoInputs.cache
+F:\.netapi\logicboot\LogicBoot.Api.Repository\obj\Debug\netcoreapp3.1\LogicBoot.Api.Repository.AssemblyInfo.cs
+F:\.netapi\logicboot\LogicBoot.Api.Repository\obj\Debug\netcoreapp3.1\LogicBoot.Api.Repository.csproj.CopyComplete
+F:\.netapi\logicboot\LogicBoot.Api.Repository\obj\Debug\netcoreapp3.1\LogicBoot.Api.Repository.dll
+F:\.netapi\logicboot\LogicBoot.Api.Repository\obj\Debug\netcoreapp3.1\LogicBoot.Api.Repository.pdb

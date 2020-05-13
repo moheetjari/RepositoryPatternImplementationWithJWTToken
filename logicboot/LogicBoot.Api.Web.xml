@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LogicBoot.Api.Web</name>
+    </assembly>
+    <members>
+        <member name="T:logicboot.Controllers.EmployeeController">
+            <summary>
+            Employee Table
+            </summary>
+        </member>
+        <member name="M:logicboot.Controllers.EmployeeController.#ctor(LogicBoot.Api.Contracts.IRepositoryWrapper,Microsoft.AspNetCore.Mvc.IUrlHelper)">
+            <summary>
+            Employee Controller Constructor
+            </summary>
+            <param name="repositoryWrapper"></param>
+            <param name="urlHelper"></param>
+        </member>
+        <member name="M:logicboot.Controllers.EmployeeController.GetAllEmployee(LogicBoot.Api.Entities.Helper.PaginationResourceParameters)">
+            <summary>
+            Get all Employee Data
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:logicboot.Controllers.EmployeeController.Get(System.Int32)">
+            <summary>
+            Get Employee By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:logicboot.Controllers.EmployeeController.Post(LogicBoot.Api.Entities.Models.Employee)">
+            <summary>
+            Add Employee Data
+            </summary>
+            <param name="emp"></param>
+        </member>
+        <member name="M:logicboot.Controllers.EmployeeController.Put(System.Int32,LogicBoot.Api.Entities.Models.Employee)">
+            <summary>
+            Update Employee Data
+            </summary>
+            <param name="id"></param>
+            <param name="emp"></param>
+        </member>
+        <member name="M:logicboot.Controllers.EmployeeController.Delete(System.Int32)">
+            <summary>
+            Delete Employee Data
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:logicboot.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

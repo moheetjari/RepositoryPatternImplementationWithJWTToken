@@ -1,0 +1,9 @@
+F:\.netapi\logicboot\LogicBoot.Api.Entities\bin\Debug\netcoreapp3.1\LogicBoot.Api.Entities.deps.json
+F:\.netapi\logicboot\LogicBoot.Api.Entities\bin\Debug\netcoreapp3.1\LogicBoot.Api.Entities.dll
+F:\.netapi\logicboot\LogicBoot.Api.Entities\bin\Debug\netcoreapp3.1\LogicBoot.Api.Entities.pdb
+F:\.netapi\logicboot\LogicBoot.Api.Entities\obj\Debug\netcoreapp3.1\LogicBoot.Api.Entities.csproj.CoreCompileInputs.cache
+F:\.netapi\logicboot\LogicBoot.Api.Entities\obj\Debug\netcoreapp3.1\LogicBoot.Api.Entities.AssemblyInfoInputs.cache
+F:\.netapi\logicboot\LogicBoot.Api.Entities\obj\Debug\netcoreapp3.1\LogicBoot.Api.Entities.AssemblyInfo.cs
+F:\.netapi\logicboot\LogicBoot.Api.Entities\obj\Debug\netcoreapp3.1\LogicBoot.Api.Entities.dll
+F:\.netapi\logicboot\LogicBoot.Api.Entities\obj\Debug\netcoreapp3.1\LogicBoot.Api.Entities.pdb
+F:\.netapi\logicboot\LogicBoot.Api.Entities\obj\Debug\netcoreapp3.1\LogicBoot.Api.Entities.csprojAssemblyReference.cache
